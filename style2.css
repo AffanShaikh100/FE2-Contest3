@@ -1,0 +1,29 @@
+
+.menuheading{
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    margin: 40px;
+}
+
+.menucard2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.card{
+    width:21vw;
+    margin-inline: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.card>img{
+    width: 100%;
+}
+.page2-last-div{
+    padding-bottom : 80px;
+}
